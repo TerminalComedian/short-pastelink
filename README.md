@@ -5,7 +5,7 @@
 
 **POST** Send any post data to the host domain / IP request, which will respond with a link to your data.
 
-Example: curl --data-urlencode @- "http://example.com" < <file>
+Example: curl --data-urlencode @- "http://example.com" < FILE
 
 **URL Shortener**
 
